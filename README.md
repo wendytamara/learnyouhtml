@@ -1,15 +1,6 @@
+#Proyecto learnyouhtml
+
 ![learnyouhtml](./preview.png)
-
-# learnyouhtml
-
-[![NPM version][npm-image]][npm-url]
-[![node][node-image]][node-url]
-[![Build Status][buildstat-image]][buildstat-url]
-[![Dependency Status][depstat-image]][depstat-url]
-
-> Learn you how to create your first web-page.
-
-**Hypertext Markup Language (HTML)** is the standard markup language for creating web pages and web applications. This workshopper will guide you through the simple exercises which explain the core principles of HTML.
 
 ## Exercises
 
@@ -41,7 +32,7 @@ This workshopper has 11 exercises that cover the most important aspects of HTML.
 
 Puede visualizar los ejercicios finalizados aqui:
 
- * [**Github**](node-url)
+ * [**Github**](https://github.com/wendytamara/learnyouhtml)
 
 
-  * [**Gh-pages**](node-url)
+  * [**Gh-pages**](https://wendytamara.github.io/learnyouhtml/)
