@@ -27,46 +27,21 @@ This workshopper has 11 exercises that cover the most important aspects of HTML.
 * **FORMS** — creating of forms with control elements.
 * **STYLES AND SCRIPTS** — injecting styles and scripts on a page.
 
-## Requirements
+## **Proyecto Finalizado** por Wendy Tamara
 
-* [**Node.js**](node-url) >=6.0.0
+1.  Se realizo el fork del repositorio.
 
-## Installation
+2. Se realizo la clonacion del proyecto.
 
-Open your terminal and run this command:
+3. Se descargo el programa
+ [**Node.js**](node-url)
 
-```
-npm install -g learnyouhtml
-```
+4. Se desarrolo los 11 ejercicios.
 
-Use `sudo` if you get an `EACCESS` error.
 
-## Usage
+Puede visualizar los ejercicios finalizados aqui:
 
-Open your terminal and run the following command:
+ * [**Github**](node-url)
 
-```
-learnyouhtml
-```
 
-## License
-
-MIT © [Denys Dovhan](http://denysdovhan.com)
-
-<!-- References -->
-
-[html]: https://en.wikipedia.org/wiki/HTML
-
-<!-- Badges -->
-
-[npm-url]: https://npmjs.org/package/learnyouhtml
-[npm-image]: https://img.shields.io/npm/v/learnyouhtml.svg?style=flat-square
-
-[node-url]: https://nodejs.org/en/download/
-[node-image]: https://img.shields.io/node/v/learnyouhtml.svg?style=flat-square
-
-[depstat-url]: https://david-dm.org/denysdovhan/learnyouhtml
-[depstat-image]: https://david-dm.org/denysdovhan/learnyouhtml.svg?style=flat-square
-
-[buildstat-url]: https://travis-ci.org/denysdovhan/learnyouhtml
-[buildstat-image]: https://img.shields.io/travis/denysdovhan/learnyouhtml.svg?style=flat-square
+  * [**Gh-pages**](node-url)

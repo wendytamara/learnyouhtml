@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  text-align: center;
+  background-image: url(../images/fond.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  width: 45%;
+  border: 2px solid black;
+}
+
+h1{
+  margin: 20px;
+}
+
+h2{
+  color: #ea88f7;
+  text-align: right;
+  margin-top:  40px;
+  margin-right: 15%;
+}
